@@ -3,6 +3,7 @@
 
 I am a dynamic technology professional with a diverse background in product management, systems analysis, and team leadership. With over 5 years of experience as a Product Owner, complemented by roles in systems analysis, project coordination, and research, I bring a well-rounded skill set to the tech industry.
 
+
 ## 🌐 Socials:
 [![Resume/CV](https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=resume&logoColor=white)](https://agilizeps.com/cv.pdf)
 [![Website](https://img.shields.io/badge/-WEBSITE-blue?style=for-the-badge&logo=website&logoColor=white)](https://agilizeps.com/)
