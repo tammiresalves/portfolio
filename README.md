@@ -1,5 +1,5 @@
 ## 💫 About Me:
-𝐇𝐄𝐋𝐋𝐎! My name is Antonia Tamires Alves - Passionate about technology, innovation, and coffee! ☕💻
+𝐇𝐄𝐋𝐋𝐎! My name is Tamires Alves - Passionate about technology, innovation, and coffee! ☕💻
 
 I am a dynamic technology professional with a diverse background in product management, systems analysis, and team leadership. With over 5 years of experience as a Product Owner, complemented by roles in systems analysis, project coordination, and research, I bring a well-rounded skill set to the tech industry.
 
